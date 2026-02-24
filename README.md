@@ -94,6 +94,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-pla
         alt="GitHUb Stats"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats-chi-one-39.vercel.app/api/top-langs/?username=DiegoOLiveira&show_icons=true&theme=dark&layout=compact&custom_title=MinhasLinguagens&langs_count=9"
+        src="https://github-readme-stats-chi-one-39.vercel.app/api/top-langs/?username=DiegoOLiveira&show_icons=true&theme=dark&layout=compact&custom_title=Minhas Linguagens&langs_count=9"
     />
 </p>
