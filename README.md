@@ -81,7 +81,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-pla
 
 ## Estatísticas
 
-<p>
+<!--<p>
     <img
         align="left"
         alt="GitHUb Stats"
@@ -97,7 +97,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-pla
         src="https://github.com/DiegoOLiveiraCamargo/github-readme-stats/blob/master/api/top-langs.js/?username=DiegoOLiveira&show_icons=true&theme=dark&layout=compact&custom_title=Minhas%20Linguagens&langs_count=9"
     />
 </p>
-<!--https://github-readme-stats-chi-one-39.vercel.app/api/top-langs/?username=DiegoOLiveira&show_icons=true&theme=dark&layout=compact&custom_title=Minhas%20Linguagens&langs_count=9--> 
+https://github-readme-stats-chi-one-39.vercel.app/api/top-langs/?username=DiegoOLiveira&show_icons=true&theme=dark&layout=compact&custom_title=Minhas%20Linguagens&langs_count=9
 
 
-<!--https://github-readme-stats-chi-one-39.vercel.app/api?username=DiegoOLiveira&show_icons=true&theme=dark&include_all_commits=true-->
+https://github-readme-stats-chi-one-39.vercel.app/api?username=DiegoOLiveira&show_icons=true&theme=dark&include_all_commits=true-->
