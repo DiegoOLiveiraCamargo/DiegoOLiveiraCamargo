@@ -1,103 +1,34 @@
-#  DIEGO OLIVEIRA CAMARGO
 
-**`Desenvolvedor Full-Stack`**
+# Diego Oliveira Camargo
 
-Meu nome é Diego Oliveira Camargo, tenho 16 anos e sou de São Paulo, capital. Estou cursando o Ensino Médio Técnico em Desenvolvimento Web na FIAP School. Sou um entusiasta de tecnologia, sempre buscando aprender coisas novas e aprimorar minhas habilidades em programação, desenvolvimento web e inovação digital. Tenho grande interesse em evoluir constantemente e construir uma carreira sólida na área de tecnologia.
+### Desenvolvedor de Software | Técnico em Desenvolvimento Web
 
-My name is Diego Oliveira Camargo, I am 16 years old and I am from São Paulo, the capital city. I am currently studying for a Technical High School degree in Web Development at FIAP School. I am a technology enthusiast, always seeking to learn new things and improve my skills in programming, web development, and digital innovation. I have a strong interest in constantly evolving and building a solid career in the technology field.
+Sou formado no Ensino Médio Técnico em Desenvolvimento Web pela FIAP School, em São Paulo. Tenho interesse em desenvolvimento Full Stack e busco minha primeira oportunidade profissional na área de tecnologia.
 
-[Diego Oliveira](www.linkedin.com/in/diegooliveiracamargo) - LinkedIn
+## Tecnologias
 
----
-## Linguagens e Tecnologias
+**Linguagens:** JavaScript, TypeScript, Java e Python
 
+**Front-end:** HTML, CSS, React e Angular
 
-<img 
-align="left"
-alt="JavaScript"
-title="JavaScript"
-width="40px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
-/>
+**Back-end:** Node.js e Express
 
-<img
-align="left"
-alt="HTML"
-title="HTML"
-width="40px"
-style="padding-right: 10px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+**Banco de dados:** SQL e MongoDB
 
- 
-<img
-align="left"
-alt="CSS"
-title="CSS"
-width="40px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          
+**Outras ferramentas:** Git, GitHub, Ionic e Figma
 
-<img
-align="left"
-alt="CSS"
-title="CSS"
-width="40px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
+## Projetos
 
-<img 
-align="left"
-alt="MongoDB"
-title="MongoDB"
-width="40px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+Estou organizando meus principais projetos acadêmicos e pessoais para apresentar suas funcionalidades, tecnologias e demonstrações.
 
+## Formação
 
+**FIAP School** — Ensino Médio Técnico em Desenvolvimento Web (2024–2026)
 
-<img
-align="left"
-alt="SQL"
-title="SQL"
-width="40px"
-style="padding-right: 10px"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-                              
+## Contato
 
+- [LinkedIn](https://www.linkedin.com/in/diegooliveiracamargo/)
+- [GitHub](https://github.com/DiegoOLiveiraCamargo)
 
-<img 
-align="left"
-alt="Node.Js"
-title="Node.Js"
-width="40px"
-style="padding-right: 10px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-
-</br>
-</br>
-
-## Estatísticas
-
-<!--<p>
-    <img
-        align="left"
-        alt="GitHUb Stats"
-        height="200"
-        style="padding-right: 10px;"
-        src="https://github.com/DiegoOLiveiraCamargo/github-readme-stats/tree/master/api?username=DiegoOLiveira&show_icons=true&theme=dark&include_all_commits=true"
-    />
-    <img
-        align="left"
-        alt="GitHUb Stats"
-        height="200"
-        style="padding-right: 10px;"
-        src="https://github.com/DiegoOLiveiraCamargo/github-readme-stats/blob/master/api/top-langs.js/?username=DiegoOLiveira&show_icons=true&theme=dark&layout=compact&custom_title=Minhas%20Linguagens&langs_count=9"
-    />
-</p>
-https://github-readme-stats-chi-one-39.vercel.app/api/top-langs/?username=DiegoOLiveira&show_icons=true&theme=dark&layout=compact&custom_title=Minhas%20Linguagens&langs_count=9
-
-
-https://github-readme-stats-chi-one-39.vercel.app/api?username=DiegoOLiveira&show_icons=true&theme=dark&include_all_commits=true-->
+Aberto a oportunidades de entrada em desenvolvimento de software e tecnologia.
+  
