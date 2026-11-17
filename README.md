@@ -115,21 +115,22 @@ Atualmente, estou focado em aprender e aprimorar minhas habilidades em:
 - AI
 <p/>
  
-### 📊 Estatísticas de meus repositorios ##
- 
+
+### 📊 Estatísticas de meus repositórios
+
 <p>
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DiegoOLiveiraCamargo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br%22 
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=DiegoOLiveiraCamargo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
- 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOLiveiraCamargo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9%22 
-/>
-<p/>
+
+  <img
+    align="left"
+    alt="Top Languages"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOLiveiraCamargo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
