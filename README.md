@@ -93,11 +93,19 @@ Sou apaixonado por tecnologia e adoro compartilhar conhecimento. Aqui no GitHub,
 />
 <img 
     align="left" 
-    alt="MariaDB - MySQL" 
-    title="MariaDB- MySQL"
+    alt="Nodejs" 
+    title="Nodejs"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
  
  
