@@ -1,20 +1,20 @@
 # 👨‍💻 Diego Oliveira Camargo
  
-**`Desenvolvedor [Back-end/Full-stack]`**
+**`Desenvolvedor Full Stack em início de carreira | Técnico em Desenvolvimento Web`**
  
-Tenho 17 anos, sou de São Paulo e concluí o ensino médio técnico em **Desenvolvimento de Web** pela **Fiap School**. 
+Tenho 17 anos, sou de São Paulo e concluí o ensino médio técnico em **Desenvolvimento Web** pela **FIAP School**. 
  
 Sou apaixonado por tecnologia e adoro compartilhar conhecimento. Aqui no GitHub, você encontrará projetos pessoais, atividades de sala e materiais que desenvolvo para me aprofundar em algumas linguagens.
  
 - 🌍 **Localização:** São Paulo, Brasil
-- 🎯 **Objetivo:** Inspirar e capacitar futuros desenvolvedores através da educação e do compartilhamento de conhecimento
+- 🎯 **Objetivo:** 🎯 **Objetivo:** Conquistar minha primeira oportunidade profissional em tecnologia, aplicando conhecimentos em desenvolvimento de software e evoluindo por meio de projetos reais e trabalho em equipe.
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegooliveiracamargo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego1504camargo@gmail.com)
  
 ---
  
-<br/>
+
 <br/>
  
 ### 🤖 Linguagens e Tecnologias
@@ -110,6 +110,50 @@ Sou apaixonado por tecnologia e adoro compartilhar conhecimento. Aqui no GitHub,
  
  
 <br/>
+
+
+## 🚀 Projetos em Destaque
+
+### 🎵 [Sonota — Gestão Musical Inteligente](https://github.com/DiegoOLiveiraCamargo/Sonota-V3.2.0)
+
+Plataforma desenvolvida em equipe para facilitar a gestão de produtores musicais, centralizando clientes, projetos, arranjos e controle financeiro. O sistema também possui recursos de inteligência artificial e processamento de áudio.
+
+**Tecnologias:** Angular, Ionic, TypeScript, Node.js, Express, SQLite, Firebase e Python.
+
+**Minha contribuição:** implementação de autenticação com Firebase Authentication, estruturação do banco de dados local com SQLite e colaboração no back-end.
+
+🌐 [Conhecer o projeto](https://sonota-khaki.vercel.app/)
+
+---
+
+### 🦊 [Jogo da Raposa](https://github.com/DiegoOLiveiraCamargo/JogoDaRaposa)
+
+Jogo de plataforma 2D desenvolvido com Godot, com movimentação, salto, dash, coleta de itens, obstáculos e sistema de pontuação.
+
+**Tecnologias:** Godot Engine e GDScript.
+
+**Destaques:** lógica de movimentação, interação com objetos, colisões e organização de cenas.
+
+---
+
+### 🎬 [AppStreamerIonic](https://github.com/DiegoOLiveiraCamargo/AppStreamerIonic)
+
+Aplicativo de catálogo de filmes, séries e atores, com navegação entre categorias, páginas de detalhes e sistema demonstrativo de favoritos.
+
+**Tecnologias:** Ionic, Angular e TypeScript.
+
+**Destaques:** desenvolvimento de interfaces, navegação entre telas e organização de componentes.
+
+---
+
+### 📱 [Armazenamento Local Ionic](https://github.com/DiegoOLiveiraCamargo/ArmazenamentoLocalIonic)
+
+Aplicação para cadastro e gerenciamento de contatos, utilizando armazenamento local para manter os registros no dispositivo.
+
+**Tecnologias:** Ionic, Angular, TypeScript e Ionic Storage.
+
+**Destaques:** operações CRUD, persistência local e organização de serviços.
+
 <br/>
  
 ---
@@ -120,7 +164,7 @@ Atualmente, estou focado em aprender e aprimorar minhas habilidades em:
  
 - Java
 - SQL
-- AI
+- Inteligência Artificial (AI)
 <p/>
  
 
