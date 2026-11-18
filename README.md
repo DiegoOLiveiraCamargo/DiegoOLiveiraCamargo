@@ -7,7 +7,7 @@ Tenho 17 anos, sou de São Paulo e concluí o ensino médio técnico em **Desenv
 Sou apaixonado por tecnologia e adoro compartilhar conhecimento. Aqui no GitHub, você encontrará projetos pessoais, atividades de sala e materiais que desenvolvo para me aprofundar em algumas linguagens.
  
 - 🌍 **Localização:** São Paulo, Brasil
-- 🎯 **Objetivo:** 🎯 **Objetivo:** Conquistar minha primeira oportunidade profissional em tecnologia, aplicando conhecimentos em desenvolvimento de software e evoluindo por meio de projetos reais e trabalho em equipe.
+- 🎯 **Objetivo:** Conquistar minha primeira oportunidade profissional em tecnologia, aplicando conhecimentos em desenvolvimento de software e evoluindo por meio de projetos reais e trabalho em equipe.
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegooliveiracamargo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego1504camargo@gmail.com)
@@ -159,13 +159,13 @@ Aplicação para cadastro e gerenciamento de contatos, utilizando armazenamento 
 ---
  
 ### 🌱 O Que Estou Aprendendo
-<p>
+
 Atualmente, estou focado em aprender e aprimorar minhas habilidades em:
  
 - Java
 - SQL
-- Inteligência Artificial (AI)
-<p/>
+- Inteligência Artificial (IA)
+
  
 
 ### 📊 Estatísticas de meus repositórios
