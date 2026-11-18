@@ -110,7 +110,7 @@ Sou apaixonado por tecnologia e adoro compartilhar conhecimento. Aqui no GitHub,
  
  
 <br/>
-
+<br/>
 
 ## 🚀 Projetos em Destaque
 
@@ -155,7 +155,7 @@ Aplicação para cadastro e gerenciamento de contatos, utilizando armazenamento 
 **Destaques:** operações CRUD, persistência local e organização de serviços.
 
 <br/>
- 
+<br/>
 ---
  
 ### 🌱 O Que Estou Aprendendo
